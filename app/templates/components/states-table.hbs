@@ -1,0 +1,14 @@
+<div class="states-list-filter">
+	<h2 class="states-list-filter-heading">States:</h2>
+	{{input}}
+</div>
+<div class="states-list-sorting">
+	<button class="states-list-sorting-name">Name <i class="fa fa-carat-up"></i><i class="fa fa-carat-down"></i></button>
+	<button class="states-list-sorting-abbr">Abbreviation <i class="fa fa-carat-up"></i><i class="fa fa-carat-down"></i></button>
+	<h2 class="states-list-sorting">Wikipedia Link</h2>
+</div>
+<div class="states-list">
+	{{#each state in places}}
+		<h2>{{state.state}} - {{state.abbr}}</h2>
+	{{/each}}
+</div>
