@@ -1,10 +1,303 @@
 [
-	{
-		"state": "Alabama",
-		"abbr": "AL"
-	},
-	{
-		"state": "Alaska",
-		"abbr": "AK"
-	}
+  {
+    "id": 1,
+    "state": "Alabama",
+    "abbr": "AL",
+    "info": ""
+  },
+  {
+    "id": 2,
+    "state": "Alaska",
+    "abbr": "AK",
+    "info": ""
+  },
+  {
+    "id": 3,
+    "state": "Arizona",
+    "abbr": "AZ",
+    "info": ""
+  },
+  {
+    "id": 4,
+    "state": "Arkansas",
+    "abbr": "AR",
+    "info": ""
+  },
+  {
+    "id": 5,
+    "state": "California",
+    "abbr": "CA",
+    "info": ""
+  },
+  {
+    "id": 6,
+    "state": "Colorado",
+    "abbr": "CO",
+    "info": ""
+  },
+  {
+    "id": 7,
+    "state": "Conneticut",
+    "abbr": "CN",
+    "info": ""
+  },
+  {
+    "id": 8,
+    "state": "Delaware",
+    "abbr": "DE",
+    "info": ""
+  },
+  {
+    "id": 9,
+    "state": "Florida",
+    "abbr": "FL",
+    "info": ""
+  },
+  {
+    "id": 10,
+    "state": "Georgia",
+    "abbr": "GA",
+    "info": ""
+  },
+  {
+    "id": 11,
+    "state": "Hawaii",
+    "abbr": "HI",
+    "info": ""
+  },
+  {
+    "id": 12,
+    "state": "Idaho",
+    "abbr": "ID",
+    "info": ""
+  },
+  {
+    "id": 13,
+    "state": "Illinois",
+    "abbr": "IL",
+    "info": ""
+  },
+  {
+    "id": 14,
+    "state": "Indiana",
+    "abbr": "IN",
+    "info": ""
+  },
+  {
+    "id": 15,
+    "state": "Iowa",
+    "abbr": "IA",
+    "info": ""
+  },
+  {
+    "id": 16,
+    "state": "Kansas",
+    "abbr": "KS",
+    "info": ""
+  },
+  {
+    "id": 17,
+    "state": "Kentucky",
+    "abbr": "KY",
+    "info": ""
+  },
+  {
+    "id": 18,
+    "state": "Louisiana",
+    "abbr": "LA",
+    "info": ""
+  },
+  {
+    "id": 19,
+    "state": "Maine",
+    "abbr": "ME",
+    "info": ""
+  },
+  {
+    "id": 20,
+    "state": "Maryland",
+    "abbr": "MD",
+    "info": ""
+  },
+  {
+    "id": 21,
+    "state": "Massachusetts",
+    "abbr": "MA",
+    "info": ""
+  },
+  {
+    "id": 22,
+    "state": "Michigan",
+    "abbr": "MI",
+    "info": ""
+  },
+  {
+    "id": 23,
+    "state": "Minnesota",
+    "abbr": "MI",
+    "info": ""
+  },
+  {
+    "id": 24,
+    "state": "Mississippi",
+    "abbr": "MS",
+    "info": ""
+  },
+  {
+    "id": 25,
+    "state": "Missouri",
+    "abbr": "MO",
+    "info": ""
+  },
+  {
+    "id": 26,
+    "state": "Montana",
+    "abbr": "MT",
+    "info": ""
+  },
+  {
+    "id": 27,
+    "state": "Nebraska",
+    "abbr": "NE",
+    "info": ""
+  },
+  {
+    "id": 28,
+    "state": "Nevada",
+    "abbr": "NV",
+    "info": ""
+  },
+  {
+    "id": 29,
+    "state": "New Hampshire",
+    "abbr": "NH",
+    "info": ""
+  },
+  {
+    "id": 30,
+    "state": "New Jersey",
+    "abbr": "NJ",
+    "info": ""
+  },
+  {
+    "id": 31,
+    "state": "New Mexico",
+    "abbr": "NM",
+    "info": ""
+  },
+  {
+    "id": 32,
+    "state": "New York",
+    "abbr": "NY",
+    "info": ""
+  },
+  {
+    "id": 33,
+    "state": "North Carolina",
+    "abbr": "NC",
+    "info": ""
+  },
+  {
+    "id": 34,
+    "state": "North Dakota",
+    "abbr": "ND",
+    "info": ""
+  },
+  {
+    "id": 35,
+    "state": "Ohio",
+    "abbr": "OH",
+    "info": ""
+  },
+  {
+    "id": 36,
+    "state": "Oklahoma",
+    "abbr": "OK",
+    "info": ""
+  },
+  {
+    "id": 37,
+    "state": "Oregon",
+    "abbr": "OR",
+    "info": ""
+  },
+  {
+    "id": 38,
+    "state": "Pennsylvania",
+    "abbr": "PA",
+    "info": ""
+  },
+  {
+    "id": 39,
+    "state": "Rhode Island",
+    "abbr": "RI",
+    "info": ""
+  },
+  {
+    "id": 40,
+    "state": "South Carolina",
+    "abbr": "SC",
+    "info": ""
+  },
+  {
+    "id": 41,
+    "state": "South Dakota",
+    "abbr": "SD",
+    "info": ""
+  },
+  {
+    "id": 42,
+    "state": "Tennessee",
+    "abbr": "TN",
+    "info": ""
+  },
+  {
+    "id": 43,
+    "state": "Texas",
+    "abbr": "TX",
+    "info": ""
+  },
+  {
+    "id": 44,
+    "state": "Utah",
+    "abbr": "UT",
+    "info": ""
+  },
+  {
+    "id": 45,
+    "state": "Vermont",
+    "abbr": "VT",
+    "info": ""
+  },
+  {
+    "id": 46,
+    "state": "Virginia",
+    "abbr": "VA",
+    "info": ""
+  },
+  {
+    "id": 47,
+    "state": "Washington",
+    "abbr": "WA",
+    "info": ""
+  },
+  {
+    "id": 48,
+    "state": "West Virginia",
+    "abbr": "WV",
+    "info": ""
+  },
+  {
+    "id": 49,
+    "state": "Wisconsin",
+    "abbr": "WI",
+    "info": ""
+  },
+  {
+    "id": 50,
+    "state": "Wyoming",
+    "abbr": "WY",
+    "info": ""
+  }
 ]
+
